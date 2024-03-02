@@ -10,7 +10,7 @@ public class Main_print_pattern {
 		p.second();
 		
 		Number_pattern_function n=new Number_pattern_function();
-		n.number_first();
+//		n.number_first();
 		
 	}
 
